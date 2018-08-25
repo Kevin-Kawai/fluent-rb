@@ -1,0 +1,12 @@
+GEM
+  specs:
+    ffi (1.9.25)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ffi
+
+BUNDLED WITH
+   1.16.1
